@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.4] - 2026-01-14
+
+### Changed
+- Updated dependency debug-glitzs from ^1.0.0 to ^1.0.1
+- Improved compatibility with Node.js environments without native fetch
+- Better error handling for HTTP connections
+
+### Fixed
+- Fixed HTTP client compatibility issues via updated debug-glitzs
+
 ## [1.0.3] - 2026-01-14
 
 ### Changed
@@ -41,8 +51,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - @kikobeats/time-span: ~1.0.5
 - null-prototype-object: ~1.2.2
 - pretty-ms: ~7.0.1
-- debug-glitzs: ^1.0.0
+- debug-glitzs: ^1.0.1
 
-[Unreleased]: https://github.com/json-douglas/debug-fmt/compare/v1.0.3...HEAD
-[1.0.3]: https://github.com/json-douglas/debug-fmt/releases/tag/v1.0.3
-[1.0.0]: https://github.com/json-douglas/debug-fmt/releases/tag/v1.0.0
+[Unreleased]: https://github.com/json-douglas/debug-fnt/compare/v1.0.4...HEAD
+[1.0.4]: https://github.com/json-douglas/debug-fnt/releases/tag/v1.0.4
+[1.0.3]: https://github.com/json-douglas/debug-fnt/releases/tag/v1.0.3
+[1.0.0]: https://github.com/json-douglas/debug-fnt/releases/tag/v1.0.0
