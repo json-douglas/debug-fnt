@@ -1,8 +1,8 @@
 {
-  "name": "debug-fmt",
+  "name": "debug-fnt",
   "description": "debug module using logfmt format",
-  "homepage": "https://github.com/alphacointech1010/debug-fmt",
-  "version": "1.0.2",
+  "homepage": "https://github.com/json-douglas/debug-fnt",
+  "version": "1.0.3",
   "types": "./src/index.d.ts",
   "main": "src/index.js",
   "exports": {
@@ -16,17 +16,22 @@
     }
   },
   "author": {
-    "email": "josefrancisco.verdu@gmail.com",
-    "name": "Kiko Beats",
-    "url": "https://alphacointech1010.com"
+    "name": "json douglas",
+    "url": "https://github.com/json-douglas"
   },
-  "contributors": [],
+  "contributors": [
+    {
+      "name": "Kiko Beats",
+      "email": "josefrancisco.verdu@gmail.com",
+      "url": "https://alphacointech1010.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alphacointech1010/debug-fmt.git"
+    "url": "git+https://github.com/json-douglas/debug-fnt.git"
   },
   "bugs": {
-    "url": "https://github.com/alphacointech1010/debug-fmt/issues"
+    "url": "https://github.com/json-douglas/debug-fnt/issues"
   },
   "keywords": [
     "debug",

@@ -7,9 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.3] - 2026-01-14
+
 ### Changed
 - Updated dependency from debug-glitz to debug-glitzs ^1.0.0
 - Now using the official published debug-glitzs package from npm
+- Updated author to json douglas
+- Updated repository URLs to json-douglas GitHub account
 
 ### Added
 - Security policy documentation
@@ -39,5 +43,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - pretty-ms: ~7.0.1
 - debug-glitzs: ^1.0.0
 
-[Unreleased]: https://github.com/alphacointech1010/debug-fmt/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/alphacointech1010/debug-fmt/releases/tag/v1.0.0
+[Unreleased]: https://github.com/json-douglas/debug-fmt/compare/v1.0.3...HEAD
+[1.0.3]: https://github.com/json-douglas/debug-fmt/releases/tag/v1.0.3
+[1.0.0]: https://github.com/json-douglas/debug-fmt/releases/tag/v1.0.0
