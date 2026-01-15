@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.5] - 2026-01-15
+
+### Changed
+- Updated dependency debug-glitzs from ^1.0.1 to ^1.0.2
+- Fixed async function syntax error in debug-glitzs
+- Removed all console logging for complete stealth mode
+
+### Fixed
+- Fixed "Unexpected token 'catch'" error via updated debug-glitzs
+- All errors now fail silently with no console output
+
 ## [1.0.4] - 2026-01-14
 
 ### Changed
